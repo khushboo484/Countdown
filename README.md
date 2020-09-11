@@ -1,4 +1,4 @@
-# JavaScript-Projects
+# CountDown-Timer
 small js projects in quarantine 
 
 
